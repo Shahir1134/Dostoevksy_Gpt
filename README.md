@@ -82,17 +82,9 @@ This measures exact next-token prediction and should not be interpreted as gener
 
 The following graph shows the training and validation loss throughout training.
 
-Add your loss graph to the repository at:
-
-```text
-assets/train_val_loss.png
-```
 
 Then it will appear here:
-<img width="643" height="332" alt="image" src="https://github.com/user-attachments/assets/c06e5845-eb23-4bbc-a97a-a901a9db71a5" />
-
-
-![Training vs Validation Loss](assets/train_val_loss.png)
+<img width="575" height="455" alt="image" src="https://github.com/user-attachments/assets/a802c608-dc66-4c08-821c-cf8ab6401962" />
 
 ### Interpreting the graph
 
